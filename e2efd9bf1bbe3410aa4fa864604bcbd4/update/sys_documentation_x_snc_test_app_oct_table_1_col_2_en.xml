@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="col_2" label="col 2" language="en" table="x_snc_test_app_oct_table_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>col_2</element>
+            <help/>
+            <hint/>
+            <label>col 2</label>
+            <language>en</language>
+            <name>x_snc_test_app_oct_table_1</name>
+            <plural>col 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jorge.toruno@snc</sys_created_by>
+            <sys_created_on>2021-10-01 15:03:17</sys_created_on>
+            <sys_id>d67069ff1bbe3410aa4fa864604bcb18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>col 2</sys_name>
+            <sys_package display_value="test app OCT 01" source="x_snc_test_app_oct">e2efd9bf1bbe3410aa4fa864604bcbd4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test app OCT 01">e2efd9bf1bbe3410aa4fa864604bcbd4</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_test_app_oct_table_1_col_2_en</sys_update_name>
+            <sys_updated_by>jorge.toruno@snc</sys_updated_by>
+            <sys_updated_on>2021-10-01 15:03:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
